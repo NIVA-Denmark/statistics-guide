@@ -1,0 +1,21 @@
+@font-face{
+  font-family: "Viga";
+  src: url("../fonts/Viga-Regular.ttf") format("truetype");
+}
+
+.quarto-title-block .quarto-title-banner  {
+  background-size: 50px;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 10px;
+  background-origin: content-box;
+  color: white;
+}
+
+h1.title{
+  color: white;
+}
+
+h3.title{
+  color: "#000033";
+}
