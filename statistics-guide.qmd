@@ -1,12 +1,12 @@
 ---
 title: "Why simple regression often fails"
 description: "Helle's Statistics Tips"
-title-block-banner: "#184E80"
+title-block-banner: "#96AEC0"
 format:
   html:
     embed-resources: true
     smooth-scroll: true
-    theme: simplex
+    theme: readable
     fontcolor: "#222140"
     toc: true
     toc-location: left
@@ -53,5 +53,6 @@ Another variable examined was Originator (i.e. the institute or company responsi
 ### About
 
 Helle is a statistician with **X** years experience from...
+
 
 

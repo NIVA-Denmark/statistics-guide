@@ -1,6 +1,6 @@
 @font-face{
   font-family: "Viga";
-  src: url("../fonts/Viga-Regular.ttf") format("truetype");
+  src: url("fonts/Viga-Regular.ttf") format("truetype");
 }
 
 .quarto-title-block .quarto-title-banner  {
